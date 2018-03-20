@@ -1,0 +1,47 @@
+2018/03/19 18:21:33 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: Loading user properties from: C:\apache-jmeter-2.12\bin\user.properties 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: Loading system properties from: C:\apache-jmeter-2.12\bin\system.properties 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: Copyright (c) 1998-2014 The Apache Software Foundation 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: Version 2.12 r1636949 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: java.version=1.8.0_144 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: os.name=Windows 10 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: os.arch=amd64 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: os.version=10.0 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: file.encoding=GBK 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: JMeterHome=C:\apache-jmeter-2.12 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: user.dir  =C:\apache-jmeter-2.12\bin 
+2018/03/19 18:21:33 INFO  - jmeter.JMeter: PWD       =C:\apache-jmeter-2.12\bin 
+2018/03/19 18:21:42 INFO  - jmeter.JMeter: IP: 192.168.146.1 Name: LAPTOP-3G59CERV FullName: LAPTOP-3G59CERV 
+2018/03/19 18:21:42 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2018/03/19 18:21:43 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2018/03/19 18:21:43 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2018/03/19 18:21:43 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform] 
+2018/03/19 18:21:43 INFO  - jmeter.util.BSFTestElement: Registering JMeter version of JavaScript engine as work-round for BSF-22 
+2018/03/19 18:21:44 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2018/03/19 18:21:44 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2018/03/19 18:21:44 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2018/03/19 18:21:44 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2018/03/19 18:21:44 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2018/03/19 18:21:44 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2018/03/19 18:21:44 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.control.gui.WebServiceSamplerGui 
+2018/03/19 18:21:44 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.modifier.gui.ParamModifierGui 
+2018/03/19 18:21:44 INFO  - jorphan.exec.KeyToolUtils: keytool found at 'keytool' 
+2018/03/19 18:21:44 INFO  - jmeter.protocol.http.proxy.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\apache-jmeter-2.12\bin\proxyserver.jks 
+2018/03/19 18:21:45 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2018/03/19 18:21:45 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2018/03/19 18:21:45 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2018/03/19 18:21:45 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2018/03/19 18:22:28 INFO  - jmeter.services.FileServer: Default base='C:\apache-jmeter-2.12\bin' 
+2018/03/19 18:22:28 INFO  - jmeter.gui.action.Load: Loading file: C:\apache-jmeter-2.12\demo\test.jmx 
+2018/03/19 18:22:28 INFO  - jmeter.services.FileServer: Set new base='C:\apache-jmeter-2.12\demo' 
+2018/03/19 18:22:28 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2018/03/19 18:22:28 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2018/03/19 18:22:28 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.7 
+2018/03/19 18:22:28 INFO  - jmeter.save.SaveService: Using SaveService properties file version 1618048 
+2018/03/19 18:22:28 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2018/03/19 18:22:28 INFO  - jmeter.services.FileServer: Set new base='C:\apache-jmeter-2.12\demo' 
+2018/03/19 18:22:39 INFO  - jmeter.save.CSVSaveService: C:\apache-jmeter-2.12\demo\log.jtl does not appear to have a valid header. Using default configuration. 
+2018/03/19 18:22:39 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
